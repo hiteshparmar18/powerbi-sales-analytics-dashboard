@@ -89,8 +89,9 @@ These measures are **dynamic, filter-aware, and relationship-driven**, ensuring 
 
 ## 🎥 Project Demo Video
 
-🔗 **Watch the complete dashboard walkthrough**  
-👉 https://drive.google.com/file/d/14cUsFiDrWWJOtTJ_omaD7DO9To_lR5Us/view
+▶️ **Complete Dashboard Walkthrough**  
+🔗 [Click here to watch the demo video](https://drive.google.com/file/d/14cUsFiDrWWJOtTJ_omaD7DO9To_lR5Us/view)
+
 
 The video demonstrates:
 - Dashboard navigation
