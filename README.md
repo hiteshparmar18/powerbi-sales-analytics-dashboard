@@ -195,7 +195,7 @@ This dashboard empowers decision-makers to:
 
 ## 📬 Contact
 
-If you’d like to discuss this project or collaborate, feel free to connect with me on **LinkedIn**.
+If you’d like to discuss this project or collaborate, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/hiteshparmar18/)**.
 
 ---
 
